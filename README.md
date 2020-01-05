@@ -1,8 +1,6 @@
 # ![](https://avatars1.githubusercontent.com/u/8237355?v=2&s=50) Grav
 
-[![Build status](https://dev.azure.com/ExcellentOps/ExcellentOps-Grav/_apis/build/status/excellentops%20-%201%20-%20CI)](https://dev.azure.com/ExcellentOps/ExcellentOps-Grav/_build/latest?definitionId=13)
-[![PHPStan](https://img.shields.io/badge/PHPStan-enabled-brightgreen.svg?style=flat)](https://github.com/phpstan/phpstan)
- [![Build Status](https://travis-ci.org/getgrav/grav.svg?branch=develop)](https://travis-ci.org/getgrav/grav) [![OpenCollective](https://opencollective.com/grav/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/grav/sponsors/badge.svg)](#sponsors)
+[![Build status](https://dev.azure.com/ExcellentOps/ExcellentOps-Grav/_apis/build/status/excellentops%20-%201%20-%20CI)](https://dev.azure.com/ExcellentOps/ExcellentOps-Grav/_build/latest?definitionId=13) [![PHPStan](https://img.shields.io/badge/PHPStan-enabled-brightgreen.svg?style=flat)](https://github.com/phpstan/phpstan) [![Build Status](https://travis-ci.org/getgrav/grav.svg?branch=develop)](https://travis-ci.org/getgrav/grav)
 
 This repo is forked from Grav and is used for excellentops.com public site.
 
